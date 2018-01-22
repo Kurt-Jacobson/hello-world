@@ -23,8 +23,8 @@ markdown_extensions:
 
 theme:
   palette:
-    primary: 'grey'
-    accent: 'indigo'
+    primary: grey
+    accent: indigo
     
 extra:
   social:
