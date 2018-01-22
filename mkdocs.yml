@@ -21,13 +21,12 @@ markdown_extensions:
   - admonition
   - codehilite(linenums=true)
 
-extra:
+theme:
   palette:
     primary: 'grey'
     accent: 'indigo'
-
+    
+extra:
   social:
     - type: 'github'
       link: 'https://github.com/KurtJacobson'
-    - type: 'linkedin'
-      link: 'https://linkedin.com/in/kurtjacobson'
