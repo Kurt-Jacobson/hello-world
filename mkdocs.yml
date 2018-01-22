@@ -29,3 +29,5 @@ extra:
   social:
     - type: 'github'
       link: 'https://github.com/KurtJacobson'
+    - type: 'gitter'
+      link: 'https://gitter.im/KurtJacobson/Test-Repo'
