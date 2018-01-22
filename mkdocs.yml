@@ -23,5 +23,11 @@ markdown_extensions:
 
 extra:
   palette:
-    primary: Grey
-    accent: Grey
+    primary: 'grey'
+    accent: 'indigo'
+
+  social:
+    - type: 'github'
+      link: 'https://github.com/KurtJacobson'
+    - type: 'linkedin'
+      link: 'https://linkedin.com/in/kurtjacobson'
